@@ -1,0 +1,50 @@
+feature,feature_readable,coef,odds_ratio
+institution_type_Private <2-year program,Private <2-year program,-2.253707472686096,0.10500918329610631
+"X1FAMINCOME_Family income > $235,000",Family income > $235k,-1.890163674289669,0.1510470842888121
+"X1FAMINCOME_Family income less than or equal to $15,000",Family income ≤ $15k,1.7365697556217976,5.677833623245874
+"X1FAMINCOME_Family income > $175,000 and <= $195,000",Family income $175k-$195k,-1.5725914810651984,0.20750673519538926
+"X1FAMINCOME_Family income > $195,000 and <= $215,000",Family income $195k-$215k,-1.4973106079629006,0.22373105227944673
+"X1FAMINCOME_Family income > $15,000 and <= $35,000",Family income $15k-$35k,1.363717848568379,3.910705719253293
+"X1FAMINCOME_Family income > $215,000 and <= $235,000",Family income $215k-$235k,-1.296734473997029,0.27342320736699854
+intended_field_group_Humanities/other,Humanities/other,-1.19019512607618,0.30416190835626794
+"X1FAMINCOME_Family income > $35,000 and <= $55,000",Family income $35k-$55k,0.8515423989109436,2.34325830511716
+X1PAREDU_Less than high school,Parent ed < HS,-0.8226889338534666,0.43924895373474404
+institution_type_Other/unknown,Other/unknown institution,0.7783749165428162,2.177930069968461
+X1PAREDU_Master's degree,Parent ed MA,-0.7330630193909621,0.4804351518587247
+"S3CLGSEL_Highly selective, 4-year institution","College selectivity: Highly selective, 4-year institution",-0.6930551646065092,0.5000460100935169
+X1PAREDU_Not reported,Parent ed not reported,0.6511310936716509,1.9177087109310138
+X1PAREDU_Associate's degree,Parent ed AA,0.5781422505242274,1.7827234989014733
+X1PAREDU_Ph.D/M.D/Law/other high lvl prof degree,Parent ed PhD/MD/JD+,-0.5722453476692442,0.564257061980096
+"X1FAMINCOME_Family income > $55,000 and <= $75,000",Family income $55k-$75k,0.5673424754844368,1.7635740770037724
+X1FAMINCOME_Not reported,Family income not reported,0.5399821227074032,1.7159761849022992
+X1SEX_Female,Sex: Female,-0.5123931314505923,0.599060232128343
+"X1FAMINCOME_Family income > $75,000 and <= $95,000",Family income $75k-$95k,0.46591239465396617,1.5934673969709114
+"S3CLGSEL_Selectivity not classified, 2-year institution","College selectivity: Selectivity not classified, 2-year institution",0.43534970056240346,1.5455034278800985
+"X1FAMINCOME_Family income > $135,000 and <= $155,000",Family income $135k-$155k,-0.4295037036796159,0.6508320201201189
+S3CLGSEL_Not reported,College selectivity: Not reported,-0.40725369957544794,0.6654753380728173
+X1SEX_Not reported,Sex: Not reported,-0.35800257287552323,0.6990712763808359
+"X1FAMINCOME_Family income > $115,000 and <= $135,000",Family income $115k-$135k,0.35011756873710564,1.4192343963806626
+intended_field_group_Health,Health fields,0.33979652445155584,1.404661747164126
+intended_field_group_Social sciences,Social sciences,0.33761945479416433,1.4016070270712102
+institution_type_Public 2-year college,Public 2-year college,-0.31144605246212226,0.732387119921535
+institution_type_Private for-profit college,Private for-profit college,0.2975948199502714,1.346616055366778
+institution_type_Private non-profit 4-year college,Private non-profit 4-year,0.29242274243486405,1.3396692329826985
+"S3CLGSEL_Selectivity not classified, 4-year institution","College selectivity: Selectivity not classified, 4-year institution",-0.28836601418691465,0.7494872190747764
+intended_field_group_Business,Business,-0.28583548052245367,0.7513862234476036
+institution_type_Public <2-year program,Public <2-year program,0.284110314661464,1.3285794844651913
+S3CLGCOST,College cost ($/yr),-0.27002528867305076,0.7633601897265022
+intended_field_group_Education,Education,-0.23134794317117835,0.7934633378495851
+"X1FAMINCOME_Family income > $95,000 and <= $115,000",Family income $95k-$115k,-0.23126834983281694,0.7935264947589132
+X1PAREDU_High school diploma or GED,Parent ed HS/GED,0.22122770084400525,1.2476074794998158
+X1PAREDU_Bachelor's degree,Parent ed BA/BS,-0.1900794198166266,0.8268934596085432
+intended_field_group_Undecided,Undecided,0.17984445497258109,1.1970311563963776
+"S3CLGSEL_Inclusive, 4-year institution","College selectivity: Inclusive, 4-year institution",0.17915204127963413,1.1962026025169334
+"X1FAMINCOME_Family income > $155,000 and <=$175,000",Family income $155k-$175k,0.17481205045325046,1.191022343464966
+intended_field_group_Liberal arts,Liberal arts,0.1611043122225944,1.174807509204936
+"S3CLGSEL_Moderately selective, 4-year institution","College selectivity: Moderately selective, 4-year institution",-0.1298360827406112,0.8782393777144393
+intended_field_group_STEM,STEM,-0.10674269156514296,0.8987569009720808
+S3CLGBORROW,Total borrowed ($),0.0769227725000429,1.0799586706638415
+intended_field_group_Trades,Trades/vocational,-0.0718191807965861,0.9306991688795809
+institution_type_Public 4-year college,Public 4-year college,0.04507505586747673,1.046106373383559
+"S3CLGSEL_Selectivity not classified, less-than-2-year institution","College selectivity: Selectivity not classified, less-than-2-year institution",0.036433543576355164,1.0371053794130751
+X1SEX_Male,Sex: Male,0.002820028635655108,1.0028240086567866
