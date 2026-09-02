@@ -3,6 +3,7 @@
 **Course:** INDENG 242A | UC Berkeley  
 **Team:** JP Schuchter, Tonya Yermilova, Derrick Chun, Rameen Faisal  
 **Live App:** [🔗 HSLS Student Loan Risk Explorer](https://ml242a-429797368432.us-west1.run.app)
+**Full Project Link:** https://drive.google.com/file/d/1RIsdhw9j-MA-RXzSUzXaqn8HWvqOV6-v/view
 
 ---
 
